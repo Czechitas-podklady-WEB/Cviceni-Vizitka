@@ -80,6 +80,10 @@ V tomto cvičení si osvěžíš základy HTML a CSS.
 
    - Zaobli okraje profilové fotce. Přidej jí css třídu, ať styly novlivňuješ i ikonky u odkazů.
 
-   - Obravi odkazy a zruš jim výchozí obarvení.
+   - Obravi odkazy a zruš jim výchozí podtržení.
+
+   - Po najetí myši je zvýrazni jinou barvou.
+
+   ![výsledek](zadani/vysledek.png)
 
 1. Hotový web, složku nahraj na internet pomocí [Netlify Drop](https://app.netlify.com/drop), aby si ji mohli prohlédnout i ostatní.

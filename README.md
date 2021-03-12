@@ -84,6 +84,6 @@ V tomto cvičení si osvěžíš základy HTML a CSS.
 
    - Po najetí myši je zvýrazni jinou barvou.
 
-   ![výsledek](zadani/vysledek.png)
+   [![výsledek](zadani/vysledek.png)](https://vizitka.netlify.app/)
 
 1. Hotový web, složku nahraj na internet pomocí [Netlify Drop](https://app.netlify.com/drop), aby si ji mohli prohlédnout i ostatní.

@@ -78,6 +78,8 @@ V tomto cvičení si osvěžíš základy HTML a CSS.
      height: 1em;
      ```
 
+   - Zkus změnit velikost odkazů. Pokud se ti budou, líbit nech je klidně třeba zvětšené.
+
    - Zaobli okraje profilové fotce. Přidej jí css třídu, ať styly novlivňuješ i ikonky u odkazů.
 
    - Obravi odkazy a zruš jim výchozí podtržení.

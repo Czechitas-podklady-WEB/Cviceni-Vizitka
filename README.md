@@ -69,7 +69,7 @@ V tomto cvičení si osvěžíš základy HTML a CSS.
      }
      ```
 
-   - Oprav seznamům odsazení.
+   - Oprav seznamům odsazení. Všimni si, že nejsou úplně na středu a lehce posunuté doprava.
 
    - Zmenši ikonky podle velikosti textu.
 

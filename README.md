@@ -12,7 +12,7 @@ V tomto cvičení si osvěžíš základy HTML a CSS.
 
 1. Do těla stránky, mezi tagy `<body>` a `</body>`, přidej hlavní nadpis úrovně 1 s tvým jménem nebo pseudonymem.
 
-1. Otevři stránku pomocí [Live Serveru](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) v prohlížeči. Stránka by měla vypadat přibližně takhle:
+1. Spusť vývojový server na příkazové řádce pomocí `npx serve` a otevři stránku v prohlížeči. Stránka by měla vypadat přibližně takhle:
 
    ![nadpis](zadani/nadpis.png)
 
